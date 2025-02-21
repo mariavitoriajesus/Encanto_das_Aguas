@@ -6,6 +6,8 @@ O projeto **Encanto das Águas Hotel & Spa** é um sistema de banco de dados par
 
 O banco de dados foi desenvolvido utilizando **MySQL** e inclui a criação de várias tabelas, relacionamentos entre elas e operações para manipulação de dados.
 
+https://www.notion.so/Desenvimento-de-banco-de-dados-1a1076d47c9a80628f86ec8629ec1080?pvs=4
+
 ## Funcionalidades
 
 - **Gestão de Hóspedes**: Cadastro e gerenciamento de informações dos hóspedes, como nome, CPF, endereço, telefone e email.
